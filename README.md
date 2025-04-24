@@ -26,6 +26,7 @@ Add the following lines to your Blogger theme to use these assets:
 <link rel="icon" type="image/png" sizes="32x32" href="https://agengdema.github.io/blog-assets/favicon-32x32.png"/>
 <link rel="icon" type="image/png" sizes="16x16" href="https://agengdema.github.io/blog-assets/favicon-16x16.png"/>
 <link rel="manifest" href="https://agengdema.github.io/blog-assets/site.webmanifest"/>
+```
 
 ## Notes
 - If you update any file, remember to request re-indexing in Google Search Console.
@@ -35,4 +36,3 @@ Add the following lines to your Blogger theme to use these assets:
 
 ### License
 This repository is maintained for personal blog use. Feel free to reference it but do not hotlink the files for external projects.
-
