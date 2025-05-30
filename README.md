@@ -7,15 +7,15 @@ This repository contains favicon and related files for the blog [agengdema.my.id
 These files are hosted via GitHub Pages and can be used in the blog:
 
 - **Favicon & Icons:**
-  - [`favicon-16x16.png`](https://agengdema.github.io/blog-assets/favicon-16x16.png)
-  - [`favicon-32x32.png`](https://agengdema.github.io/blog-assets/favicon-32x32.png)
-  - [`apple-touch-icon.png`](https://agengdema.github.io/blog-assets/apple-touch-icon.png)
-  - [`android-chrome-192x192.png`](https://agengdema.github.io/blog-assets/android-chrome-192x192.png)
-  - [`android-chrome-512x512.png`](https://agengdema.github.io/blog-assets/android-chrome-512x512.png)
-  - [`favicon.ico`](https://agengdema.github.io/blog-assets/favicon.ico)
+  - [`favicon-16x16.png`](https://agengdemasetiady.github.io/blog-assets/favicon-16x16.png)
+  - [`favicon-32x32.png`](https://agengdemasetiady.github.io/blog-assets/favicon-32x32.png)
+  - [`apple-touch-icon.png`](https://agengdemasetiady.github.io/blog-assets/apple-touch-icon.png)
+  - [`android-chrome-192x192.png`](https://agengdemasetiady.github.io/blog-assets/android-chrome-192x192.png)
+  - [`android-chrome-512x512.png`](https://agengdemasetiady.github.io/blog-assets/android-chrome-512x512.png)
+  - [`favicon.ico`](https://agengdemasetiady.github.io/blog-assets/favicon.ico)
 
 - **Web Manifest:**
-  - [`site.webmanifest`](https://agengdema.github.io/blog-assets/site.webmanifest)
+  - [`site.webmanifest`](https://agengdemasetiady.github.io/blog-assets/site.webmanifest)
 
 ## Usage
 
