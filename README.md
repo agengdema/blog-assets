@@ -22,10 +22,10 @@ These files are hosted via GitHub Pages and can be used in the blog:
 Add the following lines to your Blogger theme to use these assets:
 
 ```html
-<link rel="apple-touch-icon" sizes="180x180" href="https://agengdema.github.io/blog-assets/apple-touch-icon.png"/>
-<link rel="icon" type="image/png" sizes="32x32" href="https://agengdema.github.io/blog-assets/favicon-32x32.png"/>
-<link rel="icon" type="image/png" sizes="16x16" href="https://agengdema.github.io/blog-assets/favicon-16x16.png"/>
-<link rel="manifest" href="https://agengdema.github.io/blog-assets/site.webmanifest"/>
+<link rel="apple-touch-icon" sizes="180x180" href="https://agengdemasetiady.github.io/blog-assets/apple-touch-icon.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="https://agengdemasetiady.github.io/blog-assets/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="https://agengdemasetiady.github.io/blog-assets/favicon-16x16.png"/>
+<link rel="manifest" href="https://agengdemasetiady.github.io/blog-assets/site.webmanifest"/>
 ```
 
 ## Notes
